@@ -1,0 +1,154 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Muhammad Yahya Muhaimin, S.Kom. <surat.pribadiku@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-25 11:52+0700\n"
+"PO-Revision-Date: 2015-08-01 17:32+0000\n"
+"Last-Translator: Muhammad Yahya Muhaimin, S.Kom. <surat.pribadiku@gmail.com>\n"
+"Language-Team: Indonesian (Indonesia) (http://www.transifex.com/wp-translations/learnpress/language/id_ID/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: init.php:91 init.php:92 views/export-form.php:6 views/export-form.php:23
+msgid "Export"
+msgstr "Expor"
+
+#: init.php:157 init.php:158
+msgid "Export Courses"
+msgstr "Expor Mata Kuliah"
+
+#: init.php:171
+msgid "Export this course"
+msgstr "Expor mata kuliah ini"
+
+#: init.php:200
+msgid "Import"
+msgstr "Impor"
+
+#: init.php:228
+msgid "Imports all courses successfully"
+msgstr "Berhasil mengimpor semua mata kuliah"
+
+#: init.php:232
+msgid ""
+"Some courses are duplicate, please select it in the list to duplicate if you"
+" want"
+msgstr "Beberapa mata kuliah adalah duplikat, silakan memilihnya dalam daftar untuk menduplikat jika Anda mau"
+
+#: init.php:237
+msgid "No course is imported. Please try again"
+msgstr "Tidak ada mata kuliah yang diimpor. Mohon coba lagi."
+
+#: incs/load.bak.php:25 incs/load.bak.php:27
+msgid "Certificate"
+msgstr "Sertifikat"
+
+#: incs/load.bak.php:26 incs/load.bak.php:30
+msgid "Certificates"
+msgstr "Sertifikat"
+
+#: incs/load.bak.php:28
+msgid "Add New Certificate"
+msgstr "Tambah Sertifikat Baru"
+
+#: incs/load.bak.php:29
+msgid "Edit Certificate"
+msgstr "Sunting Sertifikat"
+
+#: incs/lpr-export-functions.php:211
+msgid "Export fail"
+msgstr "Expor gagal"
+
+#: incs/lpr-import-functions.php:26
+msgid ""
+"Unable to create directory. Is its parent directory writable by the server?"
+msgstr "Tidak dapat membuat direktori. Apakah direktori induknya dapat ditulis oleh server?"
+
+#: incs/lpr-import-functions.php:79
+msgid ""
+"The uploaded file exceeds the upload_max_filesize directive in php.ini."
+msgstr "Berkas yang diunggah melebihi pedoman upload_max_filesize dalam php.ini."
+
+#: incs/lpr-import-functions.php:80
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form."
+msgstr "Berkas yang diunggah melebihi pedoman MAX_FILE_SIZE yang ditetapkan dalam form HTML."
+
+#: incs/lpr-import-functions.php:81
+msgid "The uploaded file was only partially uploaded."
+msgstr "Berkas yang diunggah hanya separuh terunggah."
+
+#: incs/lpr-import-functions.php:82
+msgid "No file was uploaded."
+msgstr "Tidak ada berkas yang terunggah."
+
+#: incs/lpr-import-functions.php:84
+msgid "Missing a temporary folder."
+msgstr "Tak ada map temporer."
+
+#: incs/lpr-import-functions.php:85
+msgid "Failed to write file to disk."
+msgstr "Gagal menulis berkas ke cakram."
+
+#: incs/lpr-import-functions.php:86
+msgid "File upload stopped by extension."
+msgstr "Unggahan berkas terhenti karena ekstensi."
+
+#: incs/lpr-import-functions.php:113
+msgid "File is empty. Please upload something more substantial."
+msgstr "Berkas kosong. Mohon unggah sesuatu yang lebih berisi."
+
+#: incs/lpr-import-functions.php:115
+msgid ""
+"File is empty. Please upload something more substantial. This error could "
+"also be caused by uploads being disabled in your php.ini or by post_max_size"
+" being defined as smaller than upload_max_filesize in php.ini."
+msgstr "Berkas kosong. Mohon unggah sesuatu yang lebih berisi. Galat ini juga dapat disebabkan karena pengunggahan dimatikan dalam php.ini Anda atau karena post_max_size ditetapkan lebih kecil daripada upload_max_filesize dalam php.ini."
+
+#: incs/lpr-import-functions.php:123
+msgid "Specified file failed upload test."
+msgstr "Berkas yang dipilih gagal tes pengunggahan."
+
+#: incs/lpr-import-functions.php:138
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Maaf, jenis berkas ini tidak diizinkan untuk alasan keamanan."
+
+#: incs/lpr-import-functions.php:166
+msgid "The uploaded file could not be moved"
+msgstr "Berkas yang diunggah tidak dapat dipindah"
+
+#: incs/parsers.php:42 incs/parsers.php:72 incs/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr "Ada galat ketika membaca berkas WXR ini"
+
+#: incs/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr "Rinciannya ditampilkan di atas. Pengimpor sekarang akan mencoba kembali dengan parser yang berbeda..."
+
+#: incs/parsers.php:84 incs/parsers.php:89 incs/parsers.php:289
+#: incs/parsers.php:478
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Nampaknya ini bukan berkas WXR, tak ada / salah nomor versi WXR"
+
+#: views/export-form.php:9
+msgid ""
+"We detected that some of lms systems is activated on your site and we can "
+"export their courses to import into LearnPress"
+msgstr "Kami mendeteksi bahwa beberapa sistem LMS sedang aktif dalam situs Anda dan kami dapat mengekspor mata kuliahnya untuk diimpor ke dalam LearnPress"
+
+#: views/export-form.php:10
+msgid "Please select the lms system you want to exports their courses"
+msgstr "Silakan pilih sistem LMS yang Anda inginkan untuk mengekspor mata kuliahnya"

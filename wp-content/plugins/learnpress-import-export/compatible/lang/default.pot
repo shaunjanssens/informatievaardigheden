@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-01 16:27+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: init.php:91 init.php:92 views/export-form.php:6 views/export-form.php:23
+msgid "Export"
+msgstr ""
+
+#: init.php:157 init.php:158
+msgid "Export Courses"
+msgstr ""
+
+#: init.php:171
+msgid "Export this course"
+msgstr ""
+
+#: init.php:200
+msgid "Import"
+msgstr ""
+
+#: init.php:228
+msgid "Imports all courses successfully"
+msgstr ""
+
+#: init.php:232
+msgid ""
+"Some courses are duplicate, please select it in the list to duplicate if you "
+"want"
+msgstr ""
+
+#: init.php:237
+msgid "No course is imported. Please try again"
+msgstr ""
+
+#: incs/load.bak.php:25 incs/load.bak.php:27
+msgid "Certificate"
+msgstr ""
+
+#: incs/load.bak.php:26 incs/load.bak.php:30
+msgid "Certificates"
+msgstr ""
+
+#: incs/load.bak.php:28
+msgid "Add New Certificate"
+msgstr ""
+
+#: incs/load.bak.php:29
+msgid "Edit Certificate"
+msgstr ""
+
+#: incs/lpr-export-functions.php:211
+msgid "Export fail"
+msgstr ""
+
+#: incs/lpr-import-functions.php:26
+msgid ""
+"Unable to create directory. Is its parent directory writable by the server?"
+msgstr ""
+
+#: incs/lpr-import-functions.php:79
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
+msgstr ""
+
+#: incs/lpr-import-functions.php:80
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form."
+msgstr ""
+
+#: incs/lpr-import-functions.php:81
+msgid "The uploaded file was only partially uploaded."
+msgstr ""
+
+#: incs/lpr-import-functions.php:82
+msgid "No file was uploaded."
+msgstr ""
+
+#: incs/lpr-import-functions.php:84
+msgid "Missing a temporary folder."
+msgstr ""
+
+#: incs/lpr-import-functions.php:85
+msgid "Failed to write file to disk."
+msgstr ""
+
+#: incs/lpr-import-functions.php:86
+msgid "File upload stopped by extension."
+msgstr ""
+
+#: incs/lpr-import-functions.php:113
+msgid "File is empty. Please upload something more substantial."
+msgstr ""
+
+#: incs/lpr-import-functions.php:115
+msgid ""
+"File is empty. Please upload something more substantial. This error could "
+"also be caused by uploads being disabled in your php.ini or by post_max_size "
+"being defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+
+#: incs/lpr-import-functions.php:123
+msgid "Specified file failed upload test."
+msgstr ""
+
+#: incs/lpr-import-functions.php:138
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr ""
+
+#: incs/lpr-import-functions.php:166
+msgid "The uploaded file could not be moved"
+msgstr ""
+
+#: incs/parsers.php:42 incs/parsers.php:72 incs/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: incs/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: incs/parsers.php:84 incs/parsers.php:89 incs/parsers.php:289
+#: incs/parsers.php:478
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: views/export-form.php:9
+msgid ""
+"We detected that some of lms systems is activated on your site and we can "
+"export their courses to import into LearnPress"
+msgstr ""
+
+#: views/export-form.php:10
+msgid "Please select the lms system you want to exports their courses"
+msgstr ""

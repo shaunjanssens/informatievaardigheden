@@ -1,0 +1,18 @@
+// Configuration
+@import "config/config";
+@import "mixins";
+
+// Bootstrap
+@import "bootstrap";
+
+// Typography
+@import "typography";
+
+// Global styles
+@import "global";
+
+// Page styles
+@import "pages/pages";
+
+// WordPress styles
+@import "wordpress";
